@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="应用程序.ArithmeticOperator">
+  <component name="RunManager" selected="应用程序.ConditionOperator">
     <configuration name="ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArithmeticOperator" />
       <module name="learnfromscratch" />
@@ -44,22 +44,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Constant2_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constant2_7" />
+    <configuration name="ComparisonOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparisonOperator" />
       <module name="learnfromscratch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeExchange2_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypeExchange2_8" />
+    <configuration name="ConditionOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionOperator" />
       <module name="learnfromscratch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarType2_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarType2_6" />
+    <configuration name="LogicOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicOperator" />
       <module name="learnfromscratch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ConditionOperator" />
+        <item itemvalue="应用程序.LogicOperator" />
+        <item itemvalue="应用程序.ComparisonOperator" />
         <item itemvalue="应用程序.ArithmeticOperator" />
         <item itemvalue="应用程序.VariableWork2_9" />
-        <item itemvalue="应用程序.TypeExchange2_8" />
-        <item itemvalue="应用程序.Constant2_7" />
-        <item itemvalue="应用程序.VarType2_6" />
       </list>
     </recent_temporary>
   </component>
