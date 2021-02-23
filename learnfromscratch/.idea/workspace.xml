@@ -39,9 +39,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="应用程序.DefaultClassInit">
+  <component name="RunManager" selected="应用程序.TraverseArray">
     <configuration name="DefaultClassInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DefaultClassInit" />
+      <module name="learnfromscratch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAndUpdateValueOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetAndUpdateValueOfArray" />
       <module name="learnfromscratch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,15 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleBreak" />
-      <module name="learnfromscratch" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleNestTrapezium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleNestTrapezium" />
+    <configuration name="TraverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TraverseArray" />
       <module name="learnfromscratch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.TraverseArray" />
+        <item itemvalue="应用程序.GetAndUpdateValueOfArray" />
         <item itemvalue="应用程序.DefaultClassInit" />
         <item itemvalue="应用程序.InitClass" />
         <item itemvalue="应用程序.Multiplication" />
-        <item itemvalue="应用程序.SimpleBreak" />
-        <item itemvalue="应用程序.SimpleNestTrapezium" />
       </list>
     </recent_temporary>
   </component>
