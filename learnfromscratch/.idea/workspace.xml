@@ -34,39 +34,42 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="应用程序.SimpleNest">
-    <configuration name="SimpleDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleDoWhile" />
+  <component name="RunManager" selected="应用程序.DefaultClassInit">
+    <configuration name="DefaultClassInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DefaultClassInit" />
       <module name="learnfromscratch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleFor" />
+    <configuration name="InitClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InitClass" />
       <module name="learnfromscratch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleNest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleNest" />
+    <configuration name="Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multiplication" />
       <module name="learnfromscratch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleWhile" />
+    <configuration name="SimpleBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleBreak" />
       <module name="learnfromscratch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpecialFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpecialFor" />
+    <configuration name="SimpleNestTrapezium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleNestTrapezium" />
       <module name="learnfromscratch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.SimpleNest" />
-        <item itemvalue="应用程序.SpecialFor" />
-        <item itemvalue="应用程序.SimpleFor" />
-        <item itemvalue="应用程序.SimpleDoWhile" />
-        <item itemvalue="应用程序.SimpleWhile" />
+        <item itemvalue="应用程序.DefaultClassInit" />
+        <item itemvalue="应用程序.InitClass" />
+        <item itemvalue="应用程序.Multiplication" />
+        <item itemvalue="应用程序.SimpleBreak" />
+        <item itemvalue="应用程序.SimpleNestTrapezium" />
       </list>
     </recent_temporary>
   </component>
