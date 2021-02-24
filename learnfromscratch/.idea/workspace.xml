@@ -39,16 +39,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="应用程序.TraverseArray2">
-    <configuration name="DefaultClassInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DefaultClassInit" />
-      <module name="learnfromscratch" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetAndUpdateValueOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GetAndUpdateValueOfArray" />
+  <component name="RunManager" selected="应用程序.ReverseArray">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="learnfromscratch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TraverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TraverseArray" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseArray" />
       <module name="learnfromscratch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TraverseArray3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TraverseArray3" />
+      <module name="learnfromscratch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ReverseArray" />
+        <item itemvalue="应用程序.BubbleSort" />
+        <item itemvalue="应用程序.TraverseArray3" />
         <item itemvalue="应用程序.TraverseArray2" />
         <item itemvalue="应用程序.InitClass2" />
-        <item itemvalue="应用程序.TraverseArray" />
-        <item itemvalue="应用程序.GetAndUpdateValueOfArray" />
-        <item itemvalue="应用程序.DefaultClassInit" />
       </list>
     </recent_temporary>
   </component>
