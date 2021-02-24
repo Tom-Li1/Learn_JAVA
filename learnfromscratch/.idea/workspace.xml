@@ -39,7 +39,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="应用程序.TraverseArray">
+  <component name="RunManager" selected="应用程序.TraverseArray2">
     <configuration name="DefaultClassInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DefaultClassInit" />
       <module name="learnfromscratch" />
@@ -54,15 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InitClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InitClass" />
-      <module name="learnfromscratch" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multiplication" />
+    <configuration name="InitClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InitClass2" />
       <module name="learnfromscratch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TraverseArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TraverseArray2" />
+      <module name="learnfromscratch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.TraverseArray2" />
+        <item itemvalue="应用程序.InitClass2" />
         <item itemvalue="应用程序.TraverseArray" />
         <item itemvalue="应用程序.GetAndUpdateValueOfArray" />
         <item itemvalue="应用程序.DefaultClassInit" />
-        <item itemvalue="应用程序.InitClass" />
-        <item itemvalue="应用程序.Multiplication" />
       </list>
     </recent_temporary>
   </component>
