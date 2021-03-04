@@ -41,29 +41,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="应用程序.innerClass1">
-    <configuration name="MyEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8.MyEmployee" />
-      <module name="learnfromscratch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="arithmeticOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arithmeticOperation" />
-      <module name="learnfromscratch" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="baseThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8.baseThis" />
+  <component name="RunManager" selected="应用程序.animal">
+    <configuration name="animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.animal" />
       <module name="learnfromscratch" />
       <extension name="coverage">
         <pattern>
@@ -101,13 +81,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="innerThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.innerThis" />
+      <module name="learnfromscratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="localInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.localInner" />
+      <module name="learnfromscratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.animal" />
+        <item itemvalue="应用程序.localInner" />
+        <item itemvalue="应用程序.innerThis" />
         <item itemvalue="应用程序.innerClass1" />
         <item itemvalue="应用程序.importStatic" />
-        <item itemvalue="应用程序.baseThis" />
-        <item itemvalue="应用程序.MyEmployee" />
-        <item itemvalue="应用程序.arithmeticOperation" />
       </list>
     </recent_temporary>
   </component>
