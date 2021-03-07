@@ -36,9 +36,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="应用程序.MaxLoadage">
-    <configuration name="ExplicitConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.ExplicitConversion" />
+  <component name="RunManager" selected="应用程序.RMBtoDollars">
+    <configuration name="EqualSign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.EqualSign" />
       <module name="Learn_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -50,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InttoChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.InttoChar" />
+    <configuration name="Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.Interest" />
       <module name="Learn_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxIP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.MaxIP" />
+    <configuration name="InttoChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.InttoChar" />
       <module name="Learn_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumAtoG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.SumAtoG" />
+    <configuration name="RMBtoDollars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.RMBtoDollars" />
       <module name="Learn_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.RMBtoDollars" />
+        <item itemvalue="应用程序.Interest" />
+        <item itemvalue="应用程序.EqualSign" />
         <item itemvalue="应用程序.MaxLoadage" />
         <item itemvalue="应用程序.InttoChar" />
-        <item itemvalue="应用程序.ExplicitConversion" />
-        <item itemvalue="应用程序.MaxIP" />
-        <item itemvalue="应用程序.SumAtoG" />
       </list>
     </recent_temporary>
   </component>
