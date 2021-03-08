@@ -36,9 +36,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="应用程序.RMBtoDollars">
-    <configuration name="EqualSign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.EqualSign" />
+  <component name="RunManager" selected="应用程序.Cramer">
+    <configuration name="Acceleration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.Acceleration" />
+      <module name="Learn_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learnfromscratch_new.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.ArithmeticOperator" />
       <module name="Learn_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -50,34 +63,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Cramer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.Cramer" />
+      <module name="Learn_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learnfromscratch_new.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.Interest" />
-      <module name="Learn_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learnfromscratch_new.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InttoChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.InttoChar" />
-      <module name="Learn_JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learnfromscratch_new.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxLoadage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.MaxLoadage" />
       <module name="Learn_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Cramer" />
+        <item itemvalue="应用程序.Acceleration" />
+        <item itemvalue="应用程序.ArithmeticOperator" />
         <item itemvalue="应用程序.RMBtoDollars" />
         <item itemvalue="应用程序.Interest" />
-        <item itemvalue="应用程序.EqualSign" />
-        <item itemvalue="应用程序.MaxLoadage" />
-        <item itemvalue="应用程序.InttoChar" />
       </list>
     </recent_temporary>
   </component>
