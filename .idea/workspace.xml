@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="应用程序.Cramer">
+  <component name="RunManager" selected="应用程序.ParkingNum">
     <configuration name="Acceleration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.Acceleration" />
       <module name="Learn_JAVA" />
@@ -50,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.ArithmeticOperator" />
+    <configuration name="AutoIncrementDecreasing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.AutoIncrementDecreasing" />
       <module name="Learn_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.Interest" />
+    <configuration name="ParkingNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.ParkingNum" />
       <module name="Learn_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RMBtoDollars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.RMBtoDollars" />
+    <configuration name="ShipTravel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnfromscratch_new.practice.ShipTravel" />
       <module name="Learn_JAVA" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ParkingNum" />
+        <item itemvalue="应用程序.ShipTravel" />
+        <item itemvalue="应用程序.AutoIncrementDecreasing" />
         <item itemvalue="应用程序.Cramer" />
         <item itemvalue="应用程序.Acceleration" />
-        <item itemvalue="应用程序.ArithmeticOperator" />
-        <item itemvalue="应用程序.RMBtoDollars" />
-        <item itemvalue="应用程序.Interest" />
       </list>
     </recent_temporary>
   </component>
